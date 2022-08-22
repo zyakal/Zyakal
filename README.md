@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=300&section=header&text=WELCOME%20&fontSize=90&desc=HoonJae%20GitHub%20Profile%20&fontAlign=70&descAlign=83&descAlignY=65&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=300&section=header&text=WELCOME%20&fontSize=90&desc=zyakal%20GitHub%20Profile%20&fontAlign=70&descAlign=83&descAlignY=65&animation=fadeIn)
 
 
 <h3 align="center">⚒ Tech Stack ⚒</h3>
