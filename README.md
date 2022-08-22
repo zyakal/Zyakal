@@ -28,7 +28,7 @@
 <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rlagnswo0505&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlagnswo0505&layout=compact&theme=flag-india&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zyakal&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyakal&layout=compact&theme=flag-india&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <p align="right">
