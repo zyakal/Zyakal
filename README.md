@@ -33,7 +33,7 @@
 <a href="https://tar-legal-247.notion.site/Hellow-World-14117fd03ae04164ba3e7bb7398d701e">Link</a>
 </p>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api?username=zyakal&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyakal&layout=compact&theme=flag-india&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=zyakal&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true" alt="Anurag's github stats" /></a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyakal&layout=compact&theme=flag-india&hide_border=true" /></a>
 </p>
 
 <p align="right">
