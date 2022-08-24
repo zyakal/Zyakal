@@ -30,7 +30,7 @@
 <br>
 <p align="center"> Portfolio</p>
 <p align="center">
-<a href="https://tar-legal-247.notion.site/Hellow-World-14117fd03ae04164ba3e7bb7398d701e"><img alt="notion" src ="https://blog.kakaocdn.net/dn/bLCXA5/btqJyxHzwjZ/1dE1oZfwHygo9wjf9NmqoK/img.png"/></a>
+<a src="https://tar-legal-247.notion.site/Hellow-World-14117fd03ae04164ba3e7bb7398d701e"><img alt="notion" src ="https://images.velog.io/images/dkwjd131/post/622a3668-d52a-4e99-bc44-7f3575ce2be0/KakaoTalk_20211202_164143199.png"/></a>
 </p>
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zyakal&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyakal&layout=compact&theme=flag-india&hide_border=true" /></a> |
 | ------------- | ------------- |
