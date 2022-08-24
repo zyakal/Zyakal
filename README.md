@@ -32,7 +32,7 @@
 <p align="center">
 <a href="https://tar-legal-247.notion.site/Hellow-World-14117fd03ae04164ba3e7bb7398d701e">Link</a>
 </p>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zyakal&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyakal&layout=compact&theme=flag-india&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=zyakal&show_icons=true&include_all_commits=true&theme=flag-india&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyakal&layout=compact&theme=flag-india&hide_border=true" /></a>
 
 <p align="right">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzyakal&count_bg=%23365347&title_bg=%23A48058&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
